@@ -1,0 +1,21 @@
+.buy-now-button{  
+    color:white;
+    background-color:black;
+    border:none;
+    padding:9px 25px;
+    border-radius:8px;
+    cursor:pointer;
+    font-weight:bold;
+}
+.carousel-item{
+    padding:20px 40px;
+}
+.col-md-5 h1,p{
+    padding-bottom:20px;
+}
+#carousel-ind li{
+    background-color:orange;
+}
+#control-prev{
+    width:6%;
+}
