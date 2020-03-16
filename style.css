@@ -19,3 +19,28 @@
 #control-prev{
     width:6%;
 }
+#smartphone a{
+    text-decoration:none;
+    color:orange;
+}
+.card{
+    border:none;
+    border-radius:10px;
+    box-shadow:5px 10px 10px lightgrey;
+    padding-top:20px;
+    padding-left:30px;
+    padding-right:30px;
+}
+.card-body{
+    text-align:center;
+}
+.card-body p{
+    padding-bottom:10px;
+}
+.card-body h5{
+    font-weight:bold;
+}
+#card-foot{
+    border-top:none;
+    background-color:white;
+}
