@@ -44,3 +44,10 @@
     border-top:none;
     background-color:white;
 }
+.container{
+    margin-bottom:20px;
+}
+#laptop a{
+    text-decoration:none;
+    color:orange;
+}
