@@ -56,6 +56,7 @@
 }
 #contain{
     margin-top:100px;
+    margin-bottom:50px;
 }
 .hr-line {
     background-color:orange;
@@ -105,3 +106,9 @@
     margin-bottom:40px;
     font-family:'Poppins',sans-serif;
 }
+#nav-background{
+    background-color:white !important;
+}
+#footer-para{
+    color:gray;
+    text-align:center;
