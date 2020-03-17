@@ -63,3 +63,45 @@
     width:10%;
     height:5px;
 }
+#perfume-card{
+    margin-bottom:30px;
+    border-radius:20px 0 30px 0px;
+    border:none;
+}
+#perfume-card img{
+    padding:20px 10px;
+}
+#perfume-card h4{
+    text-align:center;
+    font-weight:bold;
+    margin-bottom:40px;
+    font-family:'Poppins',sans-serif;
+}
+#shoe-card{
+    margin-bottom:20px;
+    border-radius:20px 0 30px 0px;
+    border:none;
+}
+#shoe-card img{
+    padding:20px 10px 5px 20px;
+}
+#shoe-card h4{
+    text-align:center;
+    font-weight:bold;
+    margin-bottom:40px;
+    font-family:'Poppins',sans-serif;
+}
+#bag-card{
+    margin-bottom:20px;
+    border-radius:0 20px 0 30px;
+    border:none;
+}
+#bag-card img{
+    padding:20px 10px;
+}
+#bag-card h4{
+    text-align:center;
+    font-weight:bold;
+    margin-bottom:40px;
+    font-family:'Poppins',sans-serif;
+}
